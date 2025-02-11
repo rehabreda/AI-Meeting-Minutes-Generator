@@ -1,0 +1,10 @@
+transformers
+torch
+ollama
+re
+gradio 
+pyaudio
+wave
+threading
+numpy
+openai
